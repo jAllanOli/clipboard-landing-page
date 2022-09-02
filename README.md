@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- [My Solution](https://your-solution-url.com)
+- [My Solution](https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9/hub/clipboard-landing-page-97EKh2BvcD)
 - [Live site](https://www.frontendmentor.io/solutions/clipboard-landing-page-97EKh2BvcD)
 
 ## My process
